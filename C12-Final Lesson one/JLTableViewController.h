@@ -1,5 +1,5 @@
 //
-//  JLViewController.h
+//  JLTableViewController.h
 //  C12-Final Lesson one
 //
 //  Created by Jungha Lee on 7/24/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JLViewController : UIViewController
+@interface JLTableViewController : UITableViewController
 
 @end
